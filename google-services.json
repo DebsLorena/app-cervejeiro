@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393556605283",
+    "project_id": "ajudante-cervejeiro",
+    "storage_bucket": "ajudante-cervejeiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393556605283:android:fcb716e1a5b71babcbfb56",
+        "android_client_info": {
+          "package_name": "com.debslo.ajudantecervejeiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfEL38J8o9x0VSyYMDPdBIjkwNhQvHvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
